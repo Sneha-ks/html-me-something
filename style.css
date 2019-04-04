@@ -47,3 +47,9 @@ li{
     font-size: 18px;
     color: brown;
 }
+article.nav{
+    margin: 0;
+    padding: .3em;
+    background-color: darksalmon;
+    font: 1rem 'Fira Sans', sans-serif;
+}
